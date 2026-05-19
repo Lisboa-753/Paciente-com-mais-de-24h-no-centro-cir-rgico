@@ -3,7 +3,7 @@ Este projeto contém uma procedure (função no banco de dados Oracle) que envia
 
 ## Objetivo
 
-O objetivo principal desta procedure é enviar ** Enviar email para notificar a gestão responsável pelo centro cirúrgico com os pacientes que ainda tiveram o procedimento realizado
+O objetivo principal desta procedure é enviar ** Enviar email para notificar a gestão responsável pelo centro cirúrgico com os pacientes que tiveram o procedimento realizado
 e ainda não tiveram alta do centro cirúrgico ** com dados como:
 
 - Atendimento do paciente,
